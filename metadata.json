@@ -1,0 +1,5 @@
+{
+  "name": "Student Dropout Prevention & Early Intervention System",
+  "description": "An AI-powered system to identify students at risk of dropping out, providing analytics, dashboards, and predictive insights for teachers, admins, and parents to monitor and intervene effectively.",
+  "requestFramePermissions": []
+}
